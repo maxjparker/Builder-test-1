@@ -18,6 +18,15 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        "red-hat": [
+          "Red Hat Text",
+          "-apple-system",
+          "Roboto",
+          "Helvetica",
+          "sans-serif",
+        ],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",

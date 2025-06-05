@@ -7,6 +7,13 @@
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
 
+    /* TextField component variables */
+    --input-text-label: #2c2b38;
+    --border-disabled: #f1f0f1;
+    --background-disabled: #f7f7f7;
+    --text-disabled: #b5b1c2;
+    --font-base: 14px;
+
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
 
